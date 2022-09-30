@@ -1,0 +1,21 @@
+.root {
+  display: flex;
+  align-items: center;
+  height: 37px;
+  
+  .addIcon {
+    font-size: 17px;
+    fill: #0078FF;
+
+    &:hover {
+      cursor: pointer;
+      fill: #fff;
+    }
+  }
+
+  .addProfitMessage {
+    font-size: 15px;
+    color: #0078FF;
+    margin-left: 5px;
+  }
+}

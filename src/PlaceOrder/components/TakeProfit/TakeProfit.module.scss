@@ -1,0 +1,20 @@
+.root {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  
+  .headerTakeProfit {
+    font-size: 15px;
+  }
+
+  .helpIcon {
+    fill: #37373e;
+    font-size: 19px;
+    margin-left: 4px;
+  }
+  
+  .takeProfitToggleButton {
+    margin-left: auto;
+    float: right;
+  }
+}

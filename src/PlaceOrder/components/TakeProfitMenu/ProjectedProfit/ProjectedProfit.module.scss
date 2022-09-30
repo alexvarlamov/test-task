@@ -1,0 +1,20 @@
+.root {
+  height: 36px;
+  display: flex;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.5);
+
+  .projectedProfitLeftTitle {
+    font-size: 14px;
+  }
+
+  .projectedProfitRightCount {
+    margin-left: auto;
+    float: right;
+    font-size: 15px;
+  }
+
+  .count {
+    color: #fff;
+  }
+}
